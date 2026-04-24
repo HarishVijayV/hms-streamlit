@@ -20,7 +20,7 @@ HospConnect provides a digital portal for hospital operations, managing the inte
 ## 📂 Project Structure
 ```text
 hospital_system/
-├── app.py           # Main Streamlit UI and Page Routing
-├── database.py      # SQL Schema and Database Logic
-├── requirements.txt # Project Dependencies
-└── README.md        # Documentation
+├── app.py
+├── database.py      
+├── requirements.txt 
+└── README.md       
