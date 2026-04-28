@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-streamlit
-=======
-streamlit
->>>>>>> 663bbdb (updated)
-pandas
